@@ -1,6 +1,6 @@
 <h2> Hi, I'm Moises </h2>
 
-<img align="right" src="https://github.com/user-attachments/assets/3f3f0e2b-6cb3-45ce-a3b9-1b56eede9ec0">
+<img align="right" width=360 src="https://github.com/user-attachments/assets/3f3f0e2b-6cb3-45ce-a3b9-1b56eede9ec0">
 
 <p>
   <em>
