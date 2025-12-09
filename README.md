@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    Systems Engineer at 
+    Information Systems Engineer at 
     <a href="https://www.unison.mx/">Universidad de Sonora</a><br>
     Focused on accounting automation, data workflows, and backend engineering
   </em>
