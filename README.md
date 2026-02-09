@@ -11,7 +11,7 @@
 
 I build **automation tools**: PDF/Excel processing, data reconciliation, and workflow systems focused on reducing manual work.
 
-## Tech
+### Tech
 - Python, Java
 - Data workflows
 - PDF / Excel / CSV processing
