@@ -14,24 +14,13 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me  
 
-```Java
-public class Moises {
+I build **accounting automation tools**: PDF/Excel processing, data reconciliation, and workflow systems focused on reducing manual work.
 
-    private final String[] code = {
-        "Python", "Java", "JavaScript"
-    };
+## Tech
+- Python, Java
+- Accounting systems & data workflows
+- PDF / Excel / CSV processing
+- Docker, Git
 
-    private final String[] domains = {
-        "Accounting Systems",
-        "Workflow Automation",
-        "Data Processing"
-    };
-
-    private final String[] stack = {
-        "Docker", "Git", "React"
-    };
-
-    private final String currentFocus =
-        "Building accounting tooling and workflow engines";
-}
-
+## Focus
+Building backend tools for operations.
