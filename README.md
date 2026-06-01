@@ -14,8 +14,8 @@ I build **automation tools**: PDF/Excel processing, data reconciliation, and wor
 
 ### Projects
 
-- **[sella_cruce](#)** — PDF bank-statement annotation, moving toward a multi-tenant SaaS (FastAPI · n8n · Supabase)
-- **[agents-lab](#)** — model-agnostic agent control framework (generator + evaluator pattern)
+- **sella_cruce** — PDF bank-statement annotation, moving toward a multi-tenant SaaS (FastAPI · n8n · Supabase)
+- **agents-lab** — model-agnostic agent control framework (generator + evaluator pattern)
 
 ### Reach me
 
